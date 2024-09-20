@@ -36,18 +36,23 @@ To install the required packages, use the following command:
 ```bash
 pip install pandas scikit-learn joblib imbalanced-learn nltk
 ```
+
 Usage
+
 Prepare the Data: Ensure that happiness.csv, angriness.csv, and sadness.csv are in the same directory as the code.
 Run the Code: Execute the Jupyter notebook or Python script to train the models and evaluate their performance.
 Model Files: The trained models and vectorizers are saved as .pkl files in the models directory.
 
 Model Files
+
 models/svm_model.pkl: Trained Support Vector Machine model.
 models/voting_model.pkl: Trained Voting Classifier model.
 
 Future Work
+
 Experiment with more advanced models and techniques to further improve accuracy.
 Explore additional features or data sources to enhance the emotional analysis.
 
 Conclusion
+
 This project provides a reliable tool for real-time emotional analysis of text, leveraging advanced NLP and machine learning techniques to deliver accurate predictions of emotions.

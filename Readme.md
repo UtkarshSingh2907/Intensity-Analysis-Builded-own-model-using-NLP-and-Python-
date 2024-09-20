@@ -34,7 +34,7 @@ This project develops a system that uses Natural Language Processing (NLP) and m
 To install the required packages, use the following command:
 
 ```bash
-pip install pandas scikit-learn joblib imbalanced-learn nltk```
+pip install pandas scikit-learn joblib imbalanced-learn nltk
 
 Usage
 Prepare the Data: Ensure that happiness.csv, angriness.csv, and sadness.csv are in the same directory as the code.

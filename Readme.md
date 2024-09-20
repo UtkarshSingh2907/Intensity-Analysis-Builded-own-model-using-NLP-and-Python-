@@ -35,7 +35,7 @@ To install the required packages, use the following command:
 
 ```bash
 pip install pandas scikit-learn joblib imbalanced-learn nltk
-
+```
 Usage
 Prepare the Data: Ensure that happiness.csv, angriness.csv, and sadness.csv are in the same directory as the code.
 Run the Code: Execute the Jupyter notebook or Python script to train the models and evaluate their performance.
